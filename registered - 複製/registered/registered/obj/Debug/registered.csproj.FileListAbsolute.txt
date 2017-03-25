@@ -1,0 +1,7 @@
+C:\Users\zi881\AppData\Local\Temporary Projects\registered\bin\Debug\registered.exe.config
+C:\Users\zi881\Desktop\registered\registered\registered\bin\Debug\registered.exe.config
+C:\Users\zi881\Desktop\registered\registered\registered\bin\Debug\registered.exe
+C:\Users\zi881\Desktop\registered\registered\registered\bin\Debug\registered.pdb
+C:\Users\zi881\Desktop\registered\registered\registered\obj\Debug\registered.exe
+C:\Users\zi881\Desktop\registered\registered\registered\obj\Debug\registered.pdb
+C:\Users\zi881\Desktop\registered\registered\registered\obj\Debug\registered.csprojResolveAssemblyReference.cache
